@@ -14,7 +14,7 @@ const SavedPageRecipes = ({ recipe }) => {
 
     const navigate = useNavigate()
 
-    const [ setData] = useState([])
+    const [data, setData] = useState([])
 
     const [RECIPE, setRECIPE] = useState([])
 
