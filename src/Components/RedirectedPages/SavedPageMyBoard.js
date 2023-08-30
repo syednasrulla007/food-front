@@ -4,7 +4,7 @@ import Navbar from '../MainComponents/Navbar'
 import Footer from '../MainComponents/Footer'
 import IWantToMakeSearch from '../MainComponents/IWantToMakeSearch'
 import { NavLink } from 'react-router-dom'
-import { BsFillPlusCircleFill } from 'react-icons/bs'
+
 
 const SavedPageMyBoard = () => {
     return (
